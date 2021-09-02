@@ -1,0 +1,7 @@
+name: MobSteroids
+version: 1.1
+author: OptimumPortal
+main: io.github.optimumportal.mobsteroids.MobSteroids
+description: Gives mobs armour and weapons
+api-version: 1.17
+prefix: MobSteroids

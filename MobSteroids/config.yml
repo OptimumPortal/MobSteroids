@@ -1,0 +1,20 @@
+# MOBSTEROIDS PLUGIN BY OPTIMUMPORTAL
+prefix: "[MobSteroids] "
+skeleton:
+  enabled: true
+  enable-modify-message: true
+  modify-message: "Skeleton successfully modified!"
+  helmet: DIAMOND_HELMET
+  chestplate: DIAMOND_CHESTPLATE
+  leggings: DIAMOND_LEGGINGS
+  boots: DIAMOND_BOOTS
+   
+
+zombie:
+  enabled: true
+  enable-modify-message: true
+  modify-message: "Zombie successfully modified!"
+  helmet: IRON_HELMET
+  chestplate: IRON_CHESTPLATE
+  leggings: IRON_LEGGINGS
+  boots: IRON_BOOTS
